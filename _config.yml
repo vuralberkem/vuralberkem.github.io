@@ -30,9 +30,7 @@ author:
   location         : "Pisa, Italy"
   employer         : "Scuola Superiore Sant'Anna - Wearable Robotics Laboratory"
   uri              : # URL
-  email:
-  - "berkemvural@gmail.com"
-  - "berkem.vural@santannapisa.it"
+  email            : "berkem.vural@santannapisa.it"
 
   # Academic websites
   academia         : # URL
