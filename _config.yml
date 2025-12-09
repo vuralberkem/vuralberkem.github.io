@@ -23,7 +23,7 @@ repository               : "academicpages/berkem"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  "/images/profile2.jpg"
+  avatar: "/images/profile2.jpg"
   name             : "Berkem Vural"
   #pronouns         : # example: "she/her"  
   bio              : "Mechatronics, Control and Automation, Biomedical Engineer"
