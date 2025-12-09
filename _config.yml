@@ -23,14 +23,16 @@ repository               : "academicpages/berkem"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           :  "/images/profile.png"
   name             : "Berkem Vural"
   #pronouns         : # example: "she/her"  
   bio              : "Mechatronics, Control and Automation, Biomedical Engineer"
   location         : "Pisa, Italy"
-  employer         : "Scuola Superiore Sant'Anna"
+  employer         : "Scuola Superiore Sant'Anna - Wearable Robotics Laboratory"
   uri              : # URL
-  email            : "none@example.org" 
+  email:
+  - "berkemvural@gmail.com"
+  - "berkem.vural@santannapisa.it"
 
   # Academic websites
   academia         : # URL
