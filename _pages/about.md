@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hi there!"
 excerpt: "About me"
 author_profile: true
 ---
 
-Hi there! I’m Berkem, a researcher and engineer dedicated to the intersection of human physiology and robotics.
+Merhaba! Ciao! I’m Berkem, a researcher and engineer dedicated to the intersection of human physiology and robotics.
 
 As a child, I loved exploring nature and was endlessly curious about how systems work. As this urge to understand grew, it sparked a drive to develop those very systems for the benefit of humanity. My engagement with robotics, biological systems, and health-focused engineering at large has shaped the person I am today. 
 
