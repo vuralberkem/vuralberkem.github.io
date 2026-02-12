@@ -21,9 +21,6 @@ My academic journey is characterized by an interdisciplinary approach, combining
 * **M.Sc. in Biomedical Engineering** - [Politecnico di Milano](https://www.polimi.it/en). I specialized in cardiovascular system modeling using neural networks, working under the supervision of **Prof. Giuseppe Baselli**.
 * **B.Sc. in Mechatronics Engineering** - [Yildiz Technical University](https://mkt.yildiz.edu.tr/en), where I focused on lower-limb exoskeleton design under the supervision of **Prof. Cuneyt Yilmaz**.
 
-### Interdisciplinary Interests
-
-Beyond biorobotics and mechatoronics engineering, I have a strong interest in **management, economics, and basically all social sciences**. This diverse background allows me to approach technical problems from different perspectives. You will find reflections of these interests in my [blog posts](/year-archive/), where I explore topics ranging from data-driven decision-making to social dynamics.
 
 ### Research Interests
 
@@ -32,9 +29,15 @@ I am passionate about building the next generation of assistive technologies:
 * **Control Theory:** Real-time systems and AI-driven control (Machine Learning & Reinforcement Learning).
 * **Medical Imaging:** Integrating MRI and PET systems for real-time medical device tracking and autonomous control.
 
+
+### Interdisciplinary Interests
+
+Beyond biorobotics and mechatoronics engineering, I have a strong interest in **management, economics, and basically all social sciences**. This diverse background allows me to approach technical problems from different perspectives. You will find reflections of these interests in my [blog posts](/year-archive/), where I explore topics ranging from data-driven decision-making to social dynamics.
+
+
 ### Outside the Lab
 
-When I'm not working on robotics, I'm likely exploring the streets of Pisa, travelling around the cities, practicing my Italian, listening to classical symphonies, or watching operas. I am also an advocate for education and gender equality through my affiliation with the [Association for the Support of Contemporary Life](https://www.cydd.org.tr/).
+Beyond my research and lab work, I'm likely exploring the streets of Toscana, travelling around the cities, practicing my *dolce vita, listening to classical symphonies, or watching operas. I am also an advocate for education and gender equality through my affiliation with the [Association for the Support of Contemporary Life](https://www.cydd.org.tr/).
 
 [Download My Full CV (PDF)](/files/cv_BerkemVURAL.pdf)
 
