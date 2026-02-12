@@ -5,7 +5,11 @@ excerpt: "About me"
 author_profile: true
 ---
 
-Hi there! I’m Berkem, a researcher and engineer dedicated to the intersection of human physiology and robotics. Currently, I am a **Research Fellow** at the [Wearable Robotics Laboratory](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory) within the **Sant’Anna Biorobotics Institute** in Pisa, Italy. 
+Hi there! I’m Berkem, a researcher and engineer dedicated to the intersection of human physiology and robotics.
+
+As a child, I loved exploring nature and was endlessly curious about how systems work. As this urge to understand grew, it sparked a drive to develop those very systems for the benefit of humanity. My engagement with robotics, biological systems, and health-focused engineering at large has shaped the person I am today. 
+
+Currently, I am a **Research Fellow** at the [Wearable Robotics Laboratory](https://www.santannapisa.it/en/institute/biorobotics/wearable-robotics-laboratory) within the **Sant’Anna Biorobotics Institute** in Pisa, Italy. 
 
 My work focuses on developing control algorithms for lower-limb exoskeletons, particularly heart rate-based controllers for rehabilitation and resistance training. I am driven by the curiosity of how engineered systems can seamlessly interact with biological ones to improve human health and functionality.
 
@@ -13,20 +17,20 @@ My work focuses on developing control algorithms for lower-limb exoskeletons, pa
 
 My academic journey is characterized by an interdisciplinary approach, combining technical expertise with a broad interest in various scientific fields:
 
-* **M.Sc. in Control and Automation Engineering** - [Yildiz Technical University](https://kom.yildiz.edu.tr/en). My thesis, focused on the design and implementation of an EMG-driven upper limb exoskeleton, was supervised by **Asst. Prof. Dr. Claudia F. Yaşar**.
+* **M.Sc. in Control and Automation Engineering** - [Yildiz Technical University](https://kom.yildiz.edu.tr/en). My thesis, focused on the design and implementation of an EMG-driven upper limb exoskeleton, was supervised by **Assoc. Prof. Dr. Claudia F. Yaşar**.
 * **M.Sc. in Biomedical Engineering** - [Politecnico di Milano](https://www.polimi.it/en). I specialized in cardiovascular system modeling using neural networks, working under the supervision of **Prof. Giuseppe Baselli**.
 * **B.Sc. in Mechatronics Engineering** - [Yildiz Technical University](https://mkt.yildiz.edu.tr/en), where I focused on lower-limb exoskeleton design.
 
 ### Interdisciplinary Interests
 
-Beyond robotics and engineering, I have a strong interest in **Management, Economics, and Social Sciences**. This diverse background allows me to approach technical problems from different perspectives. You will find reflections of these interests in my [blog posts](/year-archive/), where I explore topics ranging from data-driven decision-making to social dynamics.
+Beyond biorobotics and mechatoronics engineering, I have a strong interest in **management, economics, and basically all social sciences**. This diverse background allows me to approach technical problems from different perspectives. You will find reflections of these interests in my [blog posts](/year-archive/), where I explore topics ranging from data-driven decision-making to social dynamics.
 
 ### Research Interests
 
 I am passionate about building the next generation of assistive technologies:
 * **Biomechatronics & Biorobotics:** Specifically wearable technologies and exoskeletons.
 * **Control Theory:** Real-time systems and AI-driven control (Machine Learning & Reinforcement Learning).
-* **Medical Imaging:** Integrating MRI and ultrasound for real-time tracking and device control.
+* **Medical Imaging:** Integrating MRI and PET systems for real-time medical device tracking and autonomous control.
 
 ### Outside the Lab
 
