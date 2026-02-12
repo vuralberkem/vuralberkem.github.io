@@ -34,7 +34,7 @@ I am passionate about building the next generation of assistive technologies:
 
 ### Outside the Lab
 
-When I'm not working on robotics, I'm likely exploring the streets of Pisa, travelling around the cities, practicing my Italian, listening to classical symphonies, or watching operas. I am also an advocate for education and gender equality through my affiliation with the [Association for the Support of Contemporary Life](https://www.cydd.org.tr/en/).
+When I'm not working on robotics, I'm likely exploring the streets of Pisa, travelling around the cities, practicing my Italian, listening to classical symphonies, or watching operas. I am also an advocate for education and gender equality through my affiliation with the [Association for the Support of Contemporary Life](https://www.cydd.org.tr/).
 
 [Download My Full CV (PDF)](/files/cv_BerkemVURAL.pdf)
 
