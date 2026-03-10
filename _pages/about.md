@@ -34,7 +34,7 @@ I am passionate about building the next generation of assistive technologies:
 
 ### Interdisciplinary Interests
 
-Beyond biorobotics and mechatronics engineering, I have a strong interest in **management, economics, and basically all social sciences**. This diverse background allows me to approach technical problems from different perspectives. You will find reflections of these interests in my [blog posts](/year-archive/), where I explore topics ranging from data-driven decision-making to social dynamics.
+Beyond biorobotics and mechatronics engineering, I have a strong interest in **management, economics, and basically all social sciences**. This diverse background allows me to approach technical problems from different perspectives. You will find reflections of these interests in my [**blog posts**](https://berkemvural.blogspot.com/), where I explore topics ranging from data-driven decision-making to social dynamics.
 
 
 ### Outside the Lab
