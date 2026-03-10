@@ -21,7 +21,7 @@ main:
     url: /lectures/ 
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://berkemvural.blogspot.com/
     
   - title: "Publications"
     url: /publications/
