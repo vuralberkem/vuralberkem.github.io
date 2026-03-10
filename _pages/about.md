@@ -17,9 +17,11 @@ My work focuses on developing control algorithms for lower-limb exoskeletons, pa
 
 My academic journey is characterized by an interdisciplinary approach, combining technical expertise with a broad interest in various scientific fields:
 
-* **M.Sc. in Control and Automation Engineering** - [Yildiz Technical University](https://kom.yildiz.edu.tr/en). My thesis, focused on the design and implementation of an EMG-driven upper limb exoskeleton, was supervised by **Assoc. Prof. Dr. Claudia F. Yaşar**.
+* **M.Sc. in Control and Automation Engineering** - [Yildiz Technical University](https://kom.yildiz.edu.tr/en). My thesis, focused on the design and implementation of an EMG-driven upper limb exoskeleton, was supervised by **Assoc. Prof. Dr. Claudia F. Yaşar**. 
 * **M.Sc. in Biomedical Engineering** - [Politecnico di Milano](https://www.polimi.it/en). I specialized in cardiovascular system modeling using neural networks, working under the supervision of **Prof. Giuseppe Baselli**.
 * **B.Sc. in Mechatronics Engineering** - [Yildiz Technical University](https://mkt.yildiz.edu.tr/en), where I focused on lower-limb exoskeleton design under the supervision of **Prof. Cuneyt Yilmaz**.
+* Throughout my undergraduate and graduate studies, I have also closely collaborated with **Dr. Mehmet Iscan** [Yildiz Technical University](https://mkt.yildiz.edu.tr/en), whose mentorship and technical guidance played a significant role in my development in thesis works and research projects on robotic systems.
+
 
 
 ### Research Interests
