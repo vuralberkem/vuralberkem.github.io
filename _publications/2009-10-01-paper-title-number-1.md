@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Discrete Time-Based Feedback Linearization Controller Approach for Robot Manipulator"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2022-09-18-discrete-time-robot-control
+excerpt: 'This study presents a robust position control strategy for a two-joint robotic arm, addressing the limitations of traditional continuous-time PID controllers.'
 date: 2022-09-18
 venue: 'Fırat Üniversitesi Uzay ve Savunma Teknolojileri Dergisi'
-slidesurl: 'https://fen.firat.edu.tr/subdomain_files/fen.firat.edu.tr/files/28/UH_32.pdf'
-#paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Vural, B., Taş, A. İ., Özden, A. B., Aydın, M., İşcan, M., & Yılmaz, C., (2022). DISCRETE TIME-BASED FEEDBACK LINEARIZATION
-CONTROLLER APPROACH FOR ROBOT MANIPULATOR. F.Ü. Uzay ve Savunma Teknolojileri Dergisi , vol.1, no.1, 180-185.'
+paperurl: 'https://fen.firat.edu.tr/subdomain_files/fen.firat.edu.tr/files/28/UH_32.pdf'
+citation: 'Vural, B., Taş, A. İ., Özden, A. B., Aydın, M., İşcan, M., & Yılmaz, C. (2022). DISCRETE TIME-BASED FEEDBACK LINEARIZATION CONTROLLER APPROACH FOR ROBOT MANIPULATOR. F.Ü. Uzay ve Savunma Teknolojileri Dergisi, vol.1, no.1, 180-185.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper presents a robust position control strategy for a two-joint robotic arm. The research focuses on addressing the operational limitations of traditional continuous-time PID controllers when implemented on digital microprocessor systems. Originally presented at the **TOK Conference 2022**, the work demonstrates high-precision stability for robotic axes using a Lyapunov-based discrete approach.
+
