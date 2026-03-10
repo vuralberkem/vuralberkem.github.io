@@ -8,6 +8,7 @@ author_profile: true
 During my time as a **Research and Teaching Assistant** at **Yildiz Technical University** (2022–2025), I supported several core courses and led various laboratory sessions within the Department of Control and Automation Engineering.
 
 ### Teaching Assistantship (TA)
+
 In this role, I assisted professors in course delivery and conducted problem-solving sessions for the following undergraduate courses:
 
 * **System Dynamics, Modeling and Simulation**
@@ -16,6 +17,7 @@ In this role, I assisted professors in course delivery and conducted problem-sol
 * **Real-Time Control Systems**
 
 ### Laboratory Instruction
+
 I was responsible for leading hands-on laboratory sessions, where I guided students through experimental setups, data acquisition, and technical reporting:
 
 * **Industrial Automation Systems Laboratory**
