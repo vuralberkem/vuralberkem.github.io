@@ -9,9 +9,8 @@ You can find my articles on [**my Google Scholar profile**](https://scholar.goog
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
@@ -29,6 +28,4 @@ You can find my articles on [**my Google Scholar profile**](https://scholar.goog
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
 
