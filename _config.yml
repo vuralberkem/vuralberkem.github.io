@@ -26,7 +26,7 @@ author:
   avatar           : "/profile2.jpg"
   name             : "Berkem Vural"
   #pronouns         : # example: "she/her"  
-  bio              : "*Engineer, Academic and <br> Life-long learner*"
+  bio              :  "*Engineer, Academic and <br> Life-long learner*"
   location         : "Pisa, Italy"
   employer         : "Scuola Superiore Sant'Anna<br>Wearable Robotics Laboratory"
   uri              : # URL
