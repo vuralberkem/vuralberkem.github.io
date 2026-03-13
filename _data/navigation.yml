@@ -23,11 +23,11 @@ main:
   - title: "Blog Posts"
     url: https://berkemvural.blogspot.com/
     
-  - title: "Publications"
+  - title: "Publications and Projects"
     url: /publications/
         
-  - title: "Projects"
-    url: /projects/ 
+  #- title: "Projects"
+  #  url: /projects/ 
     
   #- title: "Essays"
   #  url: /essays/
