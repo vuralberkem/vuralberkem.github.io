@@ -24,18 +24,13 @@ This section features various projects involving control theory, system identifi
 During my time at **[Zehus S.r.l.](https://www.zehus.it/)** (the e-mobility division of **[Eldor Corporation](https://www.eldorgroup.com/en/home/)**), I was responsible for the complete mechanical development of an innovative e-bike remote controller. This project involved comprehensive Computer-Aided Design (**CAD**) using advanced surface modeling techniques to ensure both ergonomic functionality and aesthetic integration. Furthermore, I performed detailed analysis for material selection and structural validation, optimizing the design for durability and weight. The workflow extended to Computer-Aided Manufacturing (**CAM**) strategies, where I bridged the gap between design and production by defining manufacturing processes and tolerancing. This experience refined my skills in mechatronic integration, leveraging Eldor’s state-of-the-art industrialization capabilities.
 
 #### **Design Snapshots & Prototyping Stages**
+#### **Design Snapshots & Prototyping Stages**4 Analysis" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
 #### **Design Snapshots & Prototyping Stages**
-<div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
-  <img src="/images/zehus1.png" alt="CAD 1" style="width: 49%; border-radius: 8px; border: 1px solid #ddd;">
-  <img src="/images/zehus2.png" alt="CAD 2" style="width: 49%; border-radius: 8px; border: 1px solid #ddd;">
-</div>
-
-<div style="margin-bottom: 10px;">
-  <img src="/images/zehus3.png" alt="CAD 3 Details" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
-</div>
-
-<div style="margin-bottom: 20px;">
-  <img src="/images/zehus4.png" alt="CAD 4 Analysis" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 5px; margin-top: 15px; margin-bottom: 20px;">
+  <img src="/images/zehus1.png" alt="CAD 1" style="width: 24%; border-radius: 4px; border: 1px solid #eee;">
+  <img src="/images/zehus2.png" alt="CAD 2" style="width: 24%; border-radius: 4px; border: 1px solid #eee;">
+  <img src="/images/zehus3.png" alt="CAD 3" style="width: 40%; border-radius: 4px; border: 1px solid #eee;">
+  <img src="/images/zehus4.png" alt="CAD 4" style="width: 40%; border-radius: 4px; border: 1px solid #eee;">
 </div>
 
 ---
