@@ -20,4 +20,9 @@ The **PRIN 2022 GAIT** project, hosted at **Scuola Superiore Sant'Anna**, is a c
 This section features various projects involving control theory, system identification, and complex simulations. These works primarily utilize MATLAB and Simulink to develop, model, and validate control algorithms for robotic and industrial applications. The focuses include optimizing system performance and ensuring stability in dynamic environments.
 * 🔗 [View My GitHub Repositories](https://github.com/vuralberkem)
 
+### **E-Bike Remote Controller: CAD Design & Mechanical Analysis**
+During my time at **[Zehus S.r.l.](https://www.zehus.it/)** (the e-mobility division of **[Eldor Corporation](https://www.eldorgroup.com/en/home/)**), I was responsible for the complete mechanical development of an innovative e-bike remote controller. This project involved comprehensive Computer-Aided Design (**CAD**) using advanced surface modeling techniques to ensure both ergonomic functionality and aesthetic integration. Furthermore, I performed detailed analysis for material selection and structural validation, optimizing the design for durability and weight. The workflow extended to Computer-Aided Manufacturing (**CAM**) strategies, where I bridged the gap between design and production by defining manufacturing processes and tolerancing. This experience refined my skills in mechatronic integration, leveraging Eldor’s state-of-the-art industrialization capabilities.
+* 🛠️ *CAD models and FEA results will be added here soon.*
+
+---
 ---
