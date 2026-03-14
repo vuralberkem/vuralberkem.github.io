@@ -27,11 +27,12 @@ During my time at **[Zehus S.r.l.](https://www.zehus.it/)** (the e-mobility divi
 #### **Design Snapshots & Prototyping Stages**4 Analysis" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
 #### **Design Snapshots & Prototyping Stages**
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 5px; margin-top: 15px; margin-bottom: 20px;">
-  <img src="/images/zehus1.png" alt="CAD 1" style="width: 24%; border-radius: 4px; border: 1px solid #eee;">
-  <img src="/images/zehus2.png" alt="CAD 2" style="width: 24%; border-radius: 4px; border: 1px solid #eee;">
-  <img src="/images/zehus3.png" alt="CAD 3" style="width: 40%; border-radius: 4px; border: 1px solid #eee;">
-  <img src="/images/zehus4.png" alt="CAD 4" style="width: 40%; border-radius: 4px; border: 1px solid #eee;">
+  <img src="/images/zehus1.png" alt="CAD 1" style="width: 20%; border-radius: 4px; border: 1px solid #eee;">
+  <img src="/images/zehus2.png" alt="CAD 2" style="width: 20%; border-radius: 4px; border: 1px solid #eee;">
+  <img src="/images/zehus3.png" alt="CAD 3" style="width: 36%; border-radius: 4px; border: 1px solid #eee;">
+  <img src="/images/zehus4.png" alt="CAD 4" style="width: 36%; border-radius: 4px; border: 1px solid #eee;">
 </div>
+
 
 ---
 ---
