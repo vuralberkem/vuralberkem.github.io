@@ -5,7 +5,7 @@ permalink: /lectures/
 author_profile: true
 ---
 
-Welcome! In this section, you can find the technical notes, study guides, and laboratory manuals I developed during my time as a Research and Teaching Assistant.
+Welcome! In this section, you can find the technical notes and study guides from my academic journey.
 
 ## 📡 Signals and Systems
 Foundational concepts of signal processing, Fourier analysis, and LTI systems.
@@ -14,11 +14,6 @@ Foundational concepts of signal processing, Fourier analysis, and LTI systems.
 ---
 
 ## ⚙️ Basic Control Theory and Practical Lab Sessions
-* 📝 *Materials will be added here soon.*
-
----
-
-## ⚙️Fundamentals of Electronics and Practical Lab Tips
 * 📝 *Materials will be added here soon.*
 
 ---
