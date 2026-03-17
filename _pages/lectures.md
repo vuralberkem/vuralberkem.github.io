@@ -17,3 +17,8 @@ Foundational concepts of signal processing, Fourier analysis, and LTI systems.
 * 📝 *Materials will be added here soon.*
 
 ---
+
+## ⚙️Fundamentals of Electronics and Practical Lab Tips
+* 📝 *Materials will be added here soon.*
+
+---
