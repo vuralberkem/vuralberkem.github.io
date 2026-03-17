@@ -9,7 +9,7 @@ Welcome! In this section, you can find the technical notes, study guides, and la
 
 ## 📡 Signals and Systems
 Foundational concepts of signal processing, Fourier analysis, and LTI systems.
-* 📄 [Signals and Systems: Questions and Solutions](/assets/pdf/Signals_and_Systems-Some_Questions_and_Solutions.pdf)
+* 📄 [Signals and Systems: Questions and Solutions](/_pages/assets/Signals_and_Systems-Some_Questions_and_Solutions.pdf)
 
 ---
 
