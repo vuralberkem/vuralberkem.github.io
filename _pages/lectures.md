@@ -9,6 +9,11 @@ Welcome! In this section, you can find the technical notes, study guides, and la
 
 ## 📡 Signals and Systems
 Foundational concepts of signal processing, Fourier analysis, and LTI systems.
-* 📄 [Signals and Systems: Questions and Solutions](https://vuralberkem.github.io/Signals_and_Systems-Some_Questions_and_Solutions.pdf)
+* 📄 [Signals and Systems: Questions and Solutions](/Signals_and_Systems_Solutions.pdf)
+
+---
+
+## ⚙️ Basic Control Theory and Practical Lab Sessions
+* 📝 *Materials will be added here soon.*
 
 ---
