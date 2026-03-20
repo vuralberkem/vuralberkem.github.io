@@ -51,37 +51,41 @@ Beyond my research and lab work, I'm likely exploring the streets of Toscana, tr
 </div>
 
 <style>
-/* Sabit Baslik Ayari */
+/* Navigasyonun altinda kalmamasi icin z-index ve arkasinin beyaz olmasi sart */
 .sticky-header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color: white;
-  z-index: 999;
-  padding: 10px 0;
-  border-bottom: 1px solid #f2f2f2;
+  background-color: white !important;
+  z-index: 10; /* Menünün altinda, ama içerigin üstünde kalmasi için */
+  padding: 15px 0;
+  border-bottom: 1px solid #eee;
+  display: block;
 }
 
 #main-greeting {
   margin: 0;
   font-size: 2.5rem;
   transition: font-size 0.3s ease-in-out;
+  color: black;
 }
 
-/* Scroll sonrasi buyume efekti */
+/* Scroll olunca tetiklenecek class */
 .sticky-header.scrolled #main-greeting {
   font-size: 3.5rem;
   font-weight: bold;
 }
 
 .main-content-wrapper {
-  margin-top: 30px;
+  margin-top: 20px;
+  display: block;
 }
 </style>
 
 <script>
 window.onscroll = function() {
   var header = document.querySelector(".sticky-header");
+  // Navigasyon çubugun varsa (genelde 60-80px'dir) top degerini ona göre ayarla
   if (window.pageYOffset > 50) {
     header.classList.add("scrolled");
   } else {
