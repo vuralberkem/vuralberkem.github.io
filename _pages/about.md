@@ -22,23 +22,26 @@ My academic journey is characterized by an interdisciplinary approach, combining
 * **B.Sc. in Mechatronics Engineering** - [Yildiz Technical University](https://mkt.yildiz.edu.tr/en), where I focused on lower-limb exoskeleton design under the supervision of **Prof. Cuneyt Yilmaz**.
 * Throughout my undergraduate and graduate studies, I have also closely collaborated with **Dr. Mehmet Iscan** [Yildiz Technical University](https://mkt.yildiz.edu.tr/en), whose mentorship and technical guidance played a significant role in my development in thesis works and research projects on robotic systems.
 
+
+
 ### Research Interests
 
 I am passionate about building the next generation of assistive technologies:
 * **Biomechatronics & Biorobotics:** Specifically wearable technologies and exoskeletons.
 * **Control Theory:** Real-time systems and AI-driven control (Machine Learning & Reinforcement Learning).
-* **Medical Imaging:** Integrating MRI and PET systems for real-time medical device tracking and autonomous control.
+* **Medical Imaging:** Development of advanced algorithms for real-time medical device tracking, automated diagnosis, and multi-modal image fusion (MRI/PET) to enhance clinical precision and autonomous interventions.
+* **Bio-Signal Processing & Estimation:** Real-time analysis of EMG, ECG, and heart rate variability (HRV) for physiological state estimation and human-in-the-loop control.
 
 ### Interdisciplinary Interests
 
 Beyond biorobotics and mechatronics engineering, I have a strong interest in **management, economics, and basically all social sciences**. This diverse background allows me to approach technical problems from different perspectives. You will find reflections of these interests in my [**blog posts**](https://berkemvural.blogspot.com/), where I explore topics ranging from data-driven decision-making to social dynamics.
 
+
 ### Outside the Lab
 
-Beyond my research and lab work, I'm likely exploring the streets of Toscana, travelling around the cities, practicing my *dolce vita*, listening to classical symphonies, or watching operas. I am also an advocate for education and gender equality through my affiliation with the [Association for the Support of Contemporary Life](https://www.cydd.org.tr/).
+Beyond my research and lab work, I'm likely exploring the streets of Toscana, travelling around the cities, practicing my *dolce vita, listening to classical symphonies, or watching operas. I am also an advocate for education and gender equality through my affiliation with the [Association for the Support of Contemporary Life](https://www.cydd.org.tr/).
 
 [Download My Full CV (PDF)](/files/cv_BerkemVURAL.pdf)
 
 ---
 **Contact:** [berkem.vural@santannapisa.it](mailto:berkem.vural@santannapisa.it) | [LinkedIn](https://www.linkedin.com/in/berkem-vural-30a6021a5/)
-
