@@ -4,7 +4,13 @@ title: "Hi there!"
 excerpt: "About me"
 author_profile: true
 ---
+<div class="sticky-header">
+  <h1 id="main-greeting">Hi there!</h1>
+</div>
 
+<div class="main-content-flow">
+
+  
 Merhaba! Ciao! I’m Berkem, a researcher and engineer dedicated to the intersection of human physiology and robotics.
 
 As a child, I loved exploring nature and was endlessly curious about how systems work. As this urge to understand grew, it sparked a drive to develop those very systems for the benefit of humanity. My engagement with robotics, biological systems, and health-focused engineering at large has shaped the person I am today. 
@@ -45,3 +51,44 @@ Beyond my research and lab work, I'm likely exploring the streets of Toscana, tr
 
 ---
 **Contact:** [berkem.vural@santannapisa.it](mailto:berkem.vural@santannapisa.it) | [LinkedIn](https://www.linkedin.com/in/berkem-vural-30a6021a5/)
+
+</div>
+
+<style>
+.sticky-header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background: #fff;
+  z-index: 1000;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+  transition: all 0.3s ease;
+}
+
+#main-greeting {
+  margin: 0;
+  font-size: 2.5rem;
+  transition: font-size 0.3s ease;
+}
+
+.sticky-header.scrolled #main-greeting {
+  font-size: 3.5rem;
+}
+
+.main-content-flow {
+  margin-top: 20px;
+}
+</style>
+
+<script>
+window.onscroll = function() {
+  var header = document.querySelector(".sticky-header");
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    header.classList.add("scrolled");
+  } else {
+    header.classList.remove("scrolled");
+  }
+};
+</script>
+
