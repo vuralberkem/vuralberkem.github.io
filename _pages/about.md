@@ -4,13 +4,13 @@ title: "Hi there!"
 excerpt: "About me"
 author_profile: true
 ---
+
 <div class="sticky-header">
   <h1 id="main-greeting">Hi there!</h1>
 </div>
 
-<div class="main-content-flow">
+<div class="main-content-wrapper">
 
-  
 Merhaba! Ciao! I’m Berkem, a researcher and engineer dedicated to the intersection of human physiology and robotics.
 
 As a child, I loved exploring nature and was endlessly curious about how systems work. As this urge to understand grew, it sparked a drive to develop those very systems for the benefit of humanity. My engagement with robotics, biological systems, and health-focused engineering at large has shaped the person I am today. 
@@ -28,8 +28,6 @@ My academic journey is characterized by an interdisciplinary approach, combining
 * **B.Sc. in Mechatronics Engineering** - [Yildiz Technical University](https://mkt.yildiz.edu.tr/en), where I focused on lower-limb exoskeleton design under the supervision of **Prof. Cuneyt Yilmaz**.
 * Throughout my undergraduate and graduate studies, I have also closely collaborated with **Dr. Mehmet Iscan** [Yildiz Technical University](https://mkt.yildiz.edu.tr/en), whose mentorship and technical guidance played a significant role in my development in thesis works and research projects on robotic systems.
 
-
-
 ### Research Interests
 
 I am passionate about building the next generation of assistive technologies:
@@ -37,15 +35,13 @@ I am passionate about building the next generation of assistive technologies:
 * **Control Theory:** Real-time systems and AI-driven control (Machine Learning & Reinforcement Learning).
 * **Medical Imaging:** Integrating MRI and PET systems for real-time medical device tracking and autonomous control.
 
-
 ### Interdisciplinary Interests
 
 Beyond biorobotics and mechatronics engineering, I have a strong interest in **management, economics, and basically all social sciences**. This diverse background allows me to approach technical problems from different perspectives. You will find reflections of these interests in my [**blog posts**](https://berkemvural.blogspot.com/), where I explore topics ranging from data-driven decision-making to social dynamics.
 
-
 ### Outside the Lab
 
-Beyond my research and lab work, I'm likely exploring the streets of Toscana, travelling around the cities, practicing my *dolce vita, listening to classical symphonies, or watching operas. I am also an advocate for education and gender equality through my affiliation with the [Association for the Support of Contemporary Life](https://www.cydd.org.tr/).
+Beyond my research and lab work, I'm likely exploring the streets of Toscana, travelling around the cities, practicing my *dolce vita*, listening to classical symphonies, or watching operas. I am also an advocate for education and gender equality through my affiliation with the [Association for the Support of Contemporary Life](https://www.cydd.org.tr/).
 
 [Download My Full CV (PDF)](/files/cv_BerkemVURAL.pdf)
 
@@ -55,40 +51,41 @@ Beyond my research and lab work, I'm likely exploring the streets of Toscana, tr
 </div>
 
 <style>
+/* Sabit Baslik Ayari */
 .sticky-header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background: #fff;
-  z-index: 1000;
+  background-color: white;
+  z-index: 999;
   padding: 10px 0;
-  border-bottom: 1px solid #eee;
-  transition: all 0.3s ease;
+  border-bottom: 1px solid #f2f2f2;
 }
 
 #main-greeting {
   margin: 0;
   font-size: 2.5rem;
-  transition: font-size 0.3s ease;
+  transition: font-size 0.3s ease-in-out;
 }
 
+/* Scroll sonrasi buyume efekti */
 .sticky-header.scrolled #main-greeting {
   font-size: 3.5rem;
+  font-weight: bold;
 }
 
-.main-content-flow {
-  margin-top: 20px;
+.main-content-wrapper {
+  margin-top: 30px;
 }
 </style>
 
 <script>
 window.onscroll = function() {
   var header = document.querySelector(".sticky-header");
-  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+  if (window.pageYOffset > 50) {
     header.classList.add("scrolled");
   } else {
     header.classList.remove("scrolled");
   }
 };
 </script>
-
